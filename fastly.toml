@@ -1,0 +1,9 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["yusuke@kamawada.com"]
+name = "hono-compute-starter-kit"
+description = "A starter template with Hono for the Fastly Compute@Edge."
+language = "javascript"
+manifest_version = 2
+service_id = ""
