@@ -13,18 +13,12 @@ This is a starter template with Hono for the Fastly Compute@Edge.
 - Logger middleware
 - Basic Auth middleware
 
-## Usage
+## Use this starter
 
-Install
-
-```
-$ yarn install
-```
-
-Edit `fastly.toml`
+Initialize
 
 ```
-$ code fastly.toml
+$ fastly compute init --from=https://github.com/yusukebe/hono-compute-starter-kit
 ```
 
 Develop
