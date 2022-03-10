@@ -24,13 +24,13 @@ $ fastly compute init --from=https://github.com/yusukebe/hono-compute-starter-ki
 Develop
 
 ```
-$ yarn dev
+$ npm run dev
 ```
 
 Deploy
 
 ```
-$ yarn deploy
+$ npm run deploy
 ```
 
 ## Author
