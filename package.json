@@ -12,7 +12,7 @@
   "scripts": {
     "dev": "fastly compute serve --watch",
     "prebuild": "node ./build.js",
-    "build": "js-compute-runtime --skip-pkg bin/index.js bin/main.wasm",
+    "build": "js-compute-runtime bin/index.js bin/main.wasm",
     "deploy": "npm run build && fastly compute deploy"
   },
   "devDependencies": {
