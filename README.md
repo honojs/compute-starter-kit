@@ -6,7 +6,7 @@ This is a starter template with Hono for the Fastly Compute@Edge.
 
 - Minimal
 - TypeScript
-- [Hono](https://github.com/yusukebe/hono) for a web framework
+- [Hono](https://github.com/honojs/hono) for a web framework
 - [esbuild](https://github.com/evanw/esbuild) to build
 - Fast
 - Live reload
@@ -17,20 +17,20 @@ This is a starter template with Hono for the Fastly Compute@Edge.
 
 Initialize
 
-```
-$ fastly compute init --from=https://github.com/yusukebe/hono-compute-starter-kit
+```sh
+fastly compute init --from=https://github.com/honojs/compute-starter-kit
 ```
 
 Develop
 
-```
-$ npm run dev
+```sh
+npm run dev
 ```
 
 Deploy
 
-```
-$ npm run deploy
+```sh
+npm run deploy
 ```
 
 ## Author

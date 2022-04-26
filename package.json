@@ -6,9 +6,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yusukebe/hono.git"
+    "url": "https://github.com/honojs/hono.git"
   },
-  "homepage": "https://github.com/yusukebe/hono",
+  "homepage": "https://github.com/honojs/hono",
   "scripts": {
     "dev": "fastly compute serve --watch",
     "prebuild": "node ./build.js",
