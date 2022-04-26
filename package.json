@@ -24,6 +24,6 @@
   "dependencies": {
     "@fastly/js-compute": "^0.2.4",
     "crypto-js": "^4.1.1",
-    "hono": "^0.5.2"
+    "hono": "^1.0.0"
   }
 }
