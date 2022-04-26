@@ -4,10 +4,6 @@
     "config:base",
     ":timezone(Asia/Tokyo)"
   ],
-  "labels": [
-    "dependencies",
-    "renovate"
-  ],
   "schedule": [
     "after 2am"
   ],
