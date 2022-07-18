@@ -19,11 +19,11 @@
     "@esbuild-plugins/node-globals-polyfill": "^0.1.1",
     "@esbuild-plugins/node-modules-polyfill": "^0.1.4",
     "@types/crypto-js": "^4.1.1",
-    "esbuild": "^0.14.25"
+    "esbuild": "^0.14.49"
   },
   "dependencies": {
-    "@fastly/js-compute": "^0.2.4",
+    "@fastly/js-compute": "^0.3.0",
     "crypto-js": "^4.1.1",
-    "hono": "^1.4.4"
+    "hono": "^2.0.2"
   }
 }
