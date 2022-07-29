@@ -22,7 +22,7 @@
     "esbuild": "^0.14.49"
   },
   "dependencies": {
-    "@fastly/js-compute": "^0.3.0",
+    "@fastly/js-compute": "^0.4.0",
     "crypto-js": "^4.1.1",
     "hono": "^2.0.2"
   }
